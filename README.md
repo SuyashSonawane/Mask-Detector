@@ -1,4 +1,4 @@
-#Mask Detector
+# Mask Detector
 [![Version badge](https://img.shields.io/badge/Version-1.00-green)](https://github.com/SuyashSonawane/Mask-Detector/blob/master/Mask_Detector.ipynb)
 [![Generic badge](https://img.shields.io/badge/TensorFlow-2.0-orange.svg)](https://github.com/tensorflow)
 
